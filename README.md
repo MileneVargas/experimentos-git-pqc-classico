@@ -1,7 +1,7 @@
 # Experimentos Git sobre SSH com troca de chaves clássica e pós-quântica
 
 Este repositório contém o script e os resultados dos experimentos do Trabalho de Conclusão de Curso
-"[título do TCC]", desenvolvido por Milene Vargas no curso de [nome do curso] do IFFar,
+"Avaliação do Impacto da criptografia pós-quântica com algoritmo ML-KEM nas principais operações de um repositório Git ", desenvolvido por Milene Basso de Vargas no curso de Ciência da Computação do IFFar,
 campus Frederico Westphalen, em 2026.
 
 Os experimentos compararam o desempenho das operações `clone`, `pull` e `push` do Git realizadas
